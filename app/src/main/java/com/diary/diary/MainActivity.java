@@ -22,12 +22,12 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-      /*  zdjecie.setOnClickListener(new View.OnClickListener(){
+        zdjecie.setOnClickListener(new View.OnClickListener(){
             public void onClick(View v){
                 Intent int2= new Intent(MainActivity.this,Photo.class);
                 startActivity(int2);
             }
-        });*/
+        });
     }
 
 }
